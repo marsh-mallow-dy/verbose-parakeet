@@ -10,6 +10,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=1&pause=1000&color=303343&center=true&vCenter=true&width=300&lines=Mel/Scout!" />
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ZbZSe6N_BXs">
+    <img src="https://img.shields.io/badge/▶%20PLAY%20MUSIC-303343?style=for-the-badge" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="Untitled24_20260816003456.png" width="1000">
