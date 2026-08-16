@@ -34,13 +34,7 @@
 
   
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FUN%20FACT-303343?style=for-the-badge" />
-</p>
 
-<p align="center">
-  I have no idea what I'm doing ♡
-</p>
 
 
 
