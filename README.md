@@ -28,10 +28,11 @@
   <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100" style="margin-right:-15px;"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=1&pause=1000&color=303343&center=true&vCenter=true&width=400&height=100&lines=Mel%2FScout">
 </p>
 
-<p align="center">
-  <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=1&pause=1000&color=303343&center=true&vCenter=true&width=180&height=100&lines=Mel%2FScout">
-</p>
 
+
+<p align="center">
+  <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=1&pause=1000&color=303343&center=true&vCenter=true&width=250&height=80&lines=Mel%2FScout">
+</p>
 
 <p align="center">
   <img src="Untitled24_20260816003456.png" width="1000">
