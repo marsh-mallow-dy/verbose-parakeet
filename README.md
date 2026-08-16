@@ -21,7 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=Sugarcane&color=303343&style=flat-square&label=Guests">
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sugarcane&color=303343&style=plastic&label=Guests">
+</p>
 
 
 <p align="center">
