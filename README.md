@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="Untitled24_20260816003456.png" width="70">
+  <img src="Untitled24_20260816003456.png" width="1000">
 
 
 
