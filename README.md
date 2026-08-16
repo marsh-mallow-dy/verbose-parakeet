@@ -17,6 +17,10 @@
 <p align="center">
   <img src="Untitled24_20260816003456.png" width="1000">
 
+
+  ![](https://komarev.com/ghpvc/?username=Sugarcane&color=303343&label=Guest’s)
+
+
 <p align="center">
   <img src="Untitled24_20260816005348.png" width="500">
 
