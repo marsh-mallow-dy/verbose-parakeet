@@ -130,4 +130,49 @@ textarea:focus {
   border-color: #9acd32;
 }
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wheel Spinner 🎡</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+  <div class="container">
+
+    <h1>🎡 Wheel Spinner</h1>
+
+    <div class="wheel-area">
+
+      <div class="pointer">▼</div>
+
+      <canvas id="wheel" width="500" height="500"></canvas>
+
+    </div>
+
+    <button id="spinButton">SPIN ✨</button>
+
+    <p id="result">Click the button to spin!</p>
+
+    <div class="choices">
+      <h2>Choices</h2>
+
+      <textarea id="choicesInput">Green
+Pink
+Purple
+Blue
+Yellow
+Orange</textarea>
+
+      <button id="updateButton">Update Wheel</button>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
