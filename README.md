@@ -12,7 +12,11 @@
 </p>
 
 
-
+<p align="center">
+  <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="80">
+  &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=1&pause=1000&color=303343&center=true&vCenter=true&width=400&height=100&lines=Mel%2FScout">
+</p>
 
 
 
