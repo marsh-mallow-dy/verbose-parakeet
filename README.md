@@ -14,6 +14,9 @@
 <p align="center">
   <img src="Untitled24_20260816003456.png" width="1000">
 
+<p align="center">
+  ⋆｡°✩ ───────── ✦ ───────── ✩°｡⋆
+</p>
 
 
 <p align="center">
