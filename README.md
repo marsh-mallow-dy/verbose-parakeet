@@ -14,5 +14,5 @@
 <p align="center">
   <img src="Untitled24_20260816002508.png" width="70">
   <img src="Untitled24_20260816002647.png" width="50">
-  <img src="Untitled24_20260816002711.png" width="50">
+  <img src="Untitled24_20260816002711.png" width="60">
 </p>
