@@ -31,9 +31,9 @@
   <br>
   <br>
   <img src="https://img.shields.io/badge/██████████████░░░░-303343?style=flat-square" />
-  <br>
-  <sub>✦ please wait... ✦</sub>
-</p>
+
+  
+
 
 
 <p align="center">
