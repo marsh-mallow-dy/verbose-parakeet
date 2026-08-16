@@ -17,9 +17,7 @@
   <img src="Untitled24_20260816003456.png" width="1000">
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sugarcane&color=303343&style=flat-square&label=Guests">
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sugarcane&color=303343&style=plastic&label=Guests">
