@@ -6,7 +6,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=100&duration=1&pause=1000&color=303343&center=true&vCenter=true&width=500&height=150&lines=Mel/Scour">
+</p>
 
 
 
