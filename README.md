@@ -18,6 +18,7 @@
   <img src="Untitled24_20260816003456.png" width="1000">
 
 
+<p align="center">
   ![](https://komarev.com/ghpvc/?username=Sugarcane&color=303343&label=Guest’s)
 
 
