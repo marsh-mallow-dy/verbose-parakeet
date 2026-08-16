@@ -49,6 +49,11 @@
 </p>
 
 
+<p align="center">
+  <img src="Untitled24_20260816003534.png" width="1000">
+
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=303343&center=true&vCenter=true&width=600&lines=✦i+miss+that+kind+of+misery✦;✦the+kind+were+you+were+nice+to+me✦;✦but+only+in+the+evening✦;✦so+i+asked+if+i+was+dreaming✦)](https://git.io/typing-svg)
