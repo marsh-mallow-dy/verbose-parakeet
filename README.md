@@ -11,7 +11,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&duration=2500&pause=800&color=303343&center=true&vCenter=true&width=500&lines=WELCOME;HELLO+THERE;STAY+A+WHILE;✦+ENJOY+YOUR+VISIT+✦" />
+</p>
 
 
 <p align="center">
