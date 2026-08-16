@@ -18,6 +18,17 @@
   ⋆｡°✩ ───────── ✦ ───────── ✩°｡⋆
 </p>
 
+<p align="center">
+  <iframe
+    src="https://open.spotify.com/embed/track/YOUR-SPOTIFY-TRACK-ID?utm_source=generator"
+    width="300"
+    height="80"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
+</p>
+
 
 <p align="center">
   <img src="Untitled24_20260816002508.png" width="70">
