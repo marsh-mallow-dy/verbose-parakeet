@@ -17,6 +17,10 @@
   <img src="Untitled24_20260816003456.png" width="1000">
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=303343&style=flat-square&label=PROFILE+VIEWS">
+</p>
+
 
 
 
